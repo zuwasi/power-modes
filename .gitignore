@@ -1,0 +1,13 @@
+# PyInstaller output
+build/
+dist/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Local notes and verification captures
+SESSION_SUMMARY.md
+*.png
+*.log
